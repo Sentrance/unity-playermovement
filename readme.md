@@ -1,0 +1,3 @@
+# Unity Player Movement
+
+This repository allows complex customizable player movement such as slopes, stairs, local gravity, relativity of motion...
